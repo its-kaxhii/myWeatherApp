@@ -1,0 +1,19 @@
+# React Native & Node
+node_modules/
+.expo/
+.expo-shared/
+.env
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Watchman
+.watchmanconfig
